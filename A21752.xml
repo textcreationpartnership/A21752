@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elizabeth by the grace of God Queene of England, Fraunce and Ireland, defendour of the fayth, &amp;c. to all and singular archbyshops, byshops, deanes, archdeacons, &amp; other officials persõs ...</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1573</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21752</idno>
+            <idno type="STC">STC 8056</idno>
+            <idno type="STC">ESTC S3782</idno>
+            <idno type="EEBO-CITATION">33150969</idno>
+            <idno type="OCLC">ocm 33150969</idno>
+            <idno type="VID">28841</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21752)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28841)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1874:78)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Elizabeth by the grace of God Queene of England, Fraunce and Ireland, defendour of the fayth, &amp;c. to all and singular archbyshops, byshops, deanes, archdeacons, &amp; other officials persõs ...</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By Iohn Daye,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1573]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title taken from first 6 lines of text.</note>
+                  <note>For the seven-year collection to build a church and improve the hospital at Bath.</note>
+                  <note>"In witnes whereof we haue caused these our letters to be made patentes, witnes our selfe at Westminster the xiij. day of Aprill, the xv. yeare of our raigne."</note>
+                  <note>"Cum priuilegio Regiæ Maiestatis."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>St. Thomas Hospital (Bath, England).</term>
+               <term>Church of England --  Charitable contributions.</term>
+               <term>Bath (England) --  History --  16th century.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+               <term>Broadsides --  London (England) --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28841:1"/>
+            <!-- PDF PAGE 19 -->
+            <head>
+               <figure>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <p>E R</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">E</seg>LIZABETH</hi> by the grace of God Queene of England, Fraunce, and Ireland, defendour of the fayth. &amp;c. To all and ſingular Archbyſhops, Byſhops, Deanes, Archdeacons, &amp; other Officials perſo<g ref="char:cmbAbbrStroke">̄</g>s Vicares, Curates, Miniſters, and to all other ſpirituall perſo<g ref="char:cmbAbbrStroke">̄</g>s whatſoeuer they be, and alſo to all &amp; ſingular Iuſtices of peace, Maiors, Shireffes, Bay<g ref="char:EOLhyphen"/>lyffes, Conſtables, Hedboroughes, Churchwardens, Tythyngmen, and all other our Officers miniſters &amp; ſubiectes, to who<g ref="char:cmbAbbrStroke">̄</g> theſe preſentes ſhal come, greetyng. Wheras we vpo<g ref="char:cmbAbbrStroke">̄</g> humble ſute made vnto vs by diuers of our Nobilitie, and many others of great credite, &amp; ſpecially at the moſt humble deſire and zealous ſute of the Maior &amp; Citizens of our Citie of Bathe, haue gi<g ref="char:EOLhyphen"/>uen licence to new builde and erect one Church, vpon the foundations of the late Abbey Church of the late diſſolued Monaſtery of Bathe, for the receauyng of ſuch of the Nobilitie, and other our ſubiectes as reſort or ſhall from tyme to tyme haue occaſions to reſorte to that Citie, there to haue co<g ref="char:cmbAbbrStroke">̄</g>uenient place to heare Sermons, and other diuine ſeruice, which cannot co<g ref="char:cmbAbbrStroke">̄</g>ueniently be in any other Church within our ſayd Citie, for the ſmalenes of the rowmes &amp; buildinges of the ſame. And heretofore for lacke of co<g ref="char:cmbAbbrStroke">̄</g>uenient rowmes in the now Churches within our ſayd Citie, the Sermons haue ben made in the open market place there, beyng not mete nor conuenient for ſuch pur<g ref="char:EOLhyphen"/>poſe, which greater Church cannot be of new buylded and finiſhed without greater ſu<g ref="char:cmbAbbrStroke">̄</g>mes of money the<g ref="char:cmbAbbrStroke">̄</g> the Citize<g ref="char:cmbAbbrStroke">̄</g>s there be able to beare or ſuſtayne. And albeit they ſhew them ſelues very zealous, and do employ great trauayles and charges therin, yet are they not hable to finiſh the ſame, therfore haue made their further humble ſute vnto vs to licence them and theyr aſſignes &amp; deputies to receaue the gratuities of our ſubiectes within this our Realme of England and Wales for the finiſhyng of the ſayd Church.</p>
+            <p>Know you therfore that we acceptyng very well of this zealous entent &amp; good mea<g ref="char:EOLhyphen"/>nyng of the ſayd Maior &amp; Citizens &amp; tendryng their ayde and helpe to wardes the new buildyng of the ſayd Church, &amp; alſo towardes the enlargyng &amp; betteryng of an Hoſpital within that Citie of Bathe called S. Ihones, there erected for the relefe and co<g ref="char:cmbAbbrStroke">̄</g>fort of certaine ſicke &amp; diſeaſed poore perſo<g ref="char:cmbAbbrStroke">̄</g>s that reſort thether, from diuers partes of this our Realme are pleaſed &amp; conte<g ref="char:cmbAbbrStroke">̄</g>ted, and by theſe preſentes for vs our heyres and ſucceſſours do giue lice<g ref="char:cmbAbbrStroke">̄</g>ce &amp; free libertie vnto the ſayd Maior &amp; Citizens of our ſayd Citie of Bathe &amp; their aſſigne or aſſignes, deputie or deputies bearers of this our licence &amp; grau<g ref="char:cmbAbbrStroke">̄</g>t or the duplicate, or true copy hereof duryng the ſpace of vij. yeares, next commyng to aſke ga<g ref="char:EOLhyphen"/>ther receiue &amp; take the gratuitie, gift, almes, and deuotion, of all and euery or any our louyng ſubiectes dwellers within this our Realme of England &amp; Wales, aſwell with<g ref="char:EOLhyphen"/>in the liberties as without for the buildyng &amp; erecting of the ſayd Church and Hoſpital.</p>
+            <p>Wherefore we will and commaunde you the ſayd Parſons, Vicars, and Curates, &amp; all other aforeſayd that you and euery of you at ſuch tyme and tymes, as the ſayd Ma<g ref="char:EOLhyphen"/>ior and Citizens or any of their aſſigne or aſſignes deputie or deputies, or any of them bearers or bearer hereof or the duplicate hereof, ſhall repayre vnto your Churches and other places to aſke and gather the gratuities, giftes, almes, and deuotio<g ref="char:cmbAbbrStroke">̄</g> of our louyng ſubiectes or any of them, that ye permit and ſuffer the ſayd Maior and Citizens &amp; theyr aſſigne or aſſignes deputy or deputies ſo to do, without your let or interruption and to declare the tenor and effect of theſe our letters patentes vnto our louyng ſubiectes ex<g ref="char:EOLhyphen"/>hortyng them to extend to ſo honorable a worke their gratuities and charitable giftes and almes, redoundyng greatly to the glory of almighty God, and the great renowne of this our Realme, and the eaſe and commoditie of our louyng ſubiectes.</p>
+            <p>And we further ſtraitly charge and co<g ref="char:cmbAbbrStroke">̄</g>maunde all and euery hygh Conſtable of the hundredes Hedboroughes and other Conſtables, Churchwardens, and Tythyngmen that vpon the open readyng of theſe our letters patentes or the duplicate or true copy therof in any Church or other open place or places what ſoeuer, to collect and gather all the giftes and deuotio<g ref="char:cmbAbbrStroke">̄</g>s of all our louyng ſubiectes, where ſoeuer the ſame ſhalbe read or declared and what ſumme or ſummes, ſoeuer ſhalbe ſo leuied and receaued to be de<g ref="char:EOLhyphen"/>liuered to the vſe of the ſayd Maior and Citizens for the purpoſe aforeſayd, and cauſe the ſame ſummes to be endorced vpo<g ref="char:cmbAbbrStroke">̄</g> theſe preſentes or the duplicate or true copie here<g ref="char:EOLhyphen"/>of, to the entent it may playnly appeare what hath bene collected towardes the erec<g ref="char:EOLhyphen"/>tyng of the ſayd Church and Hoſpitall, within this our Realme of Engla<g ref="char:cmbAbbrStroke">̄</g>d and Wales.</p>
+            <closer>
+               <dateline>In witnes wherof we haue cauſed theſe our letters to be made patentes, witnes our ſelfe at Weſtminſter <date>the xiij. day of Aprill, the xv. yeare of our raigne.</date>
+               </dateline>
+               <signed>per breue de priuato Sigillo. Dupl. <hi>Powle.</hi>
+               </signed>
+            </closer>
+            <closer>God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Iohn Daye.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
